@@ -35,3 +35,56 @@ body {
     color: red;
 
 }
+
+.plan-haeder {
+    text-align: center;
+}
+
+.Donate plan {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+
+}
+
+.donate-plan-box {
+    width: 400px;
+    padding: 40px 30px 20px;
+    background: rgb(205, 205, 205);
+    border-radius: 5px;
+}
+
+#plan-card-active {
+    background-color: rgb(185, 146, 222);
+}
+
+#donate-plan-box {
+    width: 33.%;
+}
+
+.donate-email {
+    width: 60%;
+    margin: 90px 0px 100px 250px;
+    justify-content: center;
+    background-color: orange;
+}
+
+.donate-update-email {
+    width: 37%;
+    position: absolute;
+    margin-left: 240px;
+    margin-top: 61px;
+    justify-items: center;
+
+}
+
+.input {
+    justify-content: center;
+    display: inline-block;
+    padding: 12px;
+    box-sizing: border-box;
+    border: none;
+}
